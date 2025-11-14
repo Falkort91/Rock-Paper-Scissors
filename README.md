@@ -1,2 +1,2 @@
 Voici un petit jeu du pierre-papier-ciseau coé en vanillia avec une logic de junior
-voici le lien :[Rock-Paper-Scissors]()
+voici le lien : [Rock-Paper-Scissors](https://falkort91.github.io/Rock-Paper-Scissors/)
